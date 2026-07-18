@@ -1,2 +1,3 @@
-My Codewars profile: https://www.codewars.com/users/Rafael-Rodrigues09
-current kyu(level): 6
+My Codewars profile: https://www.codewars.com/users/Rafael-Rodrigues09 \
+\
+Current kyu(level): 6
